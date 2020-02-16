@@ -1,4 +1,6 @@
 # Karaoke-Song-Manager
-Karaoke Song Manager use for manage duplicate song in database of  eXtreme Karaoke and Handy Karaoke
+โปรแกรมสำหรับจัดการเพลงซ้ำในโปรแกรมคาราโอเกะ
+
+[Download](Karaoke-Song-Manager/releases)
 
 Project for free
